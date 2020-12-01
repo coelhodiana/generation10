@@ -5,7 +5,8 @@ let urls = [
     "https://victormirandas.github.io/RotMG-News/",
     "https://rafyy2102.github.io/Landing-OnePiece/",
     "https://niiicks.github.io/hue-destinos/",
-    "https://israel0101.github.io/Web-Bootstrap/landingPage"
+    "https://israel0101.github.io/Web-Bootstrap/landingPage",
+    "https://laurabrosens.github.io/Bootstrap1-Sense8/"
 ]
 
 function gobtn() {
